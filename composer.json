@@ -18,9 +18,9 @@
         }
     ],
     "require": {
-        "illuminate/support": "^5.0|^6.0|^7.0|^8.0|^9.0",
+        "illuminate/support": "*",
         "almasaeed2010/AdminLTE" : "2.3.*",
-        "laravel/framework": "5.8.*|^6.0|^7.0|^8.0|^9.0",
+        "laravel/framework": "*",
         "prologue/alerts": "^1.0.0",
         "jenssegers/date": "^4.0"
     },
